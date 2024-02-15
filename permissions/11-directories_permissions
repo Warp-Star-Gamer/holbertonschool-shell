@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod -R 755 foler1 folder2 folder3
+chmod -R 755 ./ foler1 folder2 folder3
