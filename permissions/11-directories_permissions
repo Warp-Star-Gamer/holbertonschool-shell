@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo chmod -R dr-Xr-Xr-X
+sudo chmod -R 755+rx
